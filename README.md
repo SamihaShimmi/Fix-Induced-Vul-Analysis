@@ -1,8 +1,8 @@
 **Fix2Fix**
 
-Metadata of the dataset is available in Insight_Mapped_With_CWE_Pair_Insights_Full.xlsx.
+Metadata of the dataset (1195 records) is available in FIV_1195_Records.xlsx.
 
-Metadata contains Project,	Commit,	Lines Added in Fixed Version,	Lines Deleted in Fixed Version,	Hunks in Fixed Version,	Github Link,	CWE ID	CVE ID, Next CWE ID, 1-line description of the change, High-level pattern of the change
+Metadata contains Project, Commit, Lines Added in Fixed Version, Lines Deleted in Fixed Version, Hunks in Fixed Version, Github Link, CWE ID, CVE ID, Version in which the vulnerability was fixed again, Prompt File
 
 Full data can be downloaded here
 https://drive.google.com/drive/folders/1kV_KN_iUNk59oMYPrNo7BYe77ROJ83La?usp=sharing
