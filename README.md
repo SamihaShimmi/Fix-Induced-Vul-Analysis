@@ -35,7 +35,7 @@ The subset of the 1,195 records confirmed as fix-induced vulnerabilities (FIVs):
 | No recurring mechanism | | 49 |
 | **Total FIV instances** | | **195** |
 
-Records in the two files match on `Prompt File` (and on `commit`).
+Records in the two files match on `Prompt File`, which is unique per record. `commit` is not unique: one fix can pair with more than one later commit.
 
 ## Source data
 
