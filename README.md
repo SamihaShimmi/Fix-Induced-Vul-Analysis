@@ -10,7 +10,7 @@ One sheet, 1,195 rows, 10 columns: Project, commit (the previous fix), Lines Add
 
 ### `FIV_195_Instances.xlsx` — the final 195 fix-induced vulnerabilities
 
-The subset of the 1,195 records confirmed as fix-induced vulnerabilities (FIVs): the later commit repairs a new weakness that the previous fix introduced. 217 records were judged FIV by two independent annotators; 22 were excluded on review because the weakness predated the fix or the commit pairing was broken, leaving 195.
+The 195 records confirmed as fix-induced vulnerabilities (FIVs): the later commit repairs a new weakness that the previous fix introduced.
 
 - Sheet `FIV Instances`: 195 rows. The same 10 columns as above, plus Category, Insight Number and Insight.
 - Sheet `Subtotals`: counts per insight and per category, computed from the first sheet.
